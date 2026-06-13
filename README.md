@@ -18,10 +18,12 @@
 ### Learning :
 - SpringBoot
 - Maven
-- Redis
+- Gradle
+- DSA
 
 ### Tools :
 - SQL Server & SMSS
+- MySQL Workbench
 - Tableau
 - PowerBI
 - VS Code
